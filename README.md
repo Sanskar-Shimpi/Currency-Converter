@@ -1,2 +1,2 @@
 # Currency-Converter
-You'll need to save these files to your operating system! It will be then working!
+You'll need to save .txt file to your storage! This project converts value of INR (Indian Rupee) to different currencies across the world!
