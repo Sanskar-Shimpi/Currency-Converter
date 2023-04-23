@@ -1,2 +1,3 @@
 # Currency-Converter
-You'll need to save .txt file to your storage! This project converts value of INR (Indian Rupee) to different currencies across the world!
+You'll need to save text [currencyDetails.txt] file to your storage!
+This project converts INR (Indian Rupee) to different currencies available in the options! Those options will be visible to you in Console when you run the program!
